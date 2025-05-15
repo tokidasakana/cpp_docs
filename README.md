@@ -64,6 +64,7 @@ int main(){
 ```
 
 <details>
+    
 <summary>解答例</summary>
     
 ```cpp
@@ -155,6 +156,7 @@ No
 ```
 
 <details>
+    
 <summary>解答例1</summary>
 
 ```cpp
@@ -170,6 +172,7 @@ int main(){
 </details>
 
 <details>
+    
 <summary>解答例2</summary>
 
 実はこんな書き方もある．使えたらかっこいい．
