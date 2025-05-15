@@ -64,9 +64,8 @@ int main(){
 ```
 
 <details>
-    
-<summary>解答例</summary>
-    
+    <summary>解答例</summary>
+        
 ```cpp
 #include<iostream>
 using namespace std;
@@ -76,7 +75,7 @@ int main(){
 }
 
 ```
-
+        
 </details>
 
 ## 2. 条件式
@@ -158,9 +157,8 @@ No
 ```
 
 <details>
+    <summary>解答例1</summary>
     
-<summary>解答例1</summary>
-
 ```cpp
 #include<iostream>
 using namespace std;
@@ -171,12 +169,11 @@ int main(){
 }
 
 ```
-
+        
 </details>
 
 <details>
-    
-<summary>解答例2</summary>
+    <summary>解答例2</summary>
 
 実はこんな書き方もある．使えたらかっこいい．
 
