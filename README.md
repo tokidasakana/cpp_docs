@@ -1,5 +1,7 @@
 ## 準備
+
 C++で `Hello World` を出力するコードを書く．
+
 ```cpp
 #include<iostream>
 using namespace std;
@@ -8,7 +10,9 @@ int main(){
 }
 
 ```
+
 実行する．エラーが出たらプログラムを修正する．
+
 ```powershell
 $ g++ a.cpp
 
@@ -19,6 +23,7 @@ $
 ```
 
 ## 1. 変数
+
 |変数名|意味|
 |----|----|
 |`int`|整数|
@@ -27,7 +32,9 @@ $
 |`string`|文字列|
 
 ### 例
+
 整数 $N$ と文字列 $S$ を受け取り，その順に出力するプログラム
+
 ```cpp
 #include<iostream>
 using namespace std;
@@ -40,12 +47,15 @@ int main(){
 ```
 
 ### 問題1.1
+
 整数 $a,b$ が与えられるので， $a+b$ を出力するプログラムを書く．
+
 #### 入力例1
-```
+
+```bash copy
 1 2
 ```
 #### 出力例1
-```
+```bash
 3
 ```
