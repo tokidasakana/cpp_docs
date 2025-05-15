@@ -76,6 +76,7 @@ int main(){
 }
 
 ```
+
 </details>
 
 ## 2. 条件式
@@ -120,6 +121,7 @@ if(条件式){
 ### 例1
 
 与えられた整数 $N$ が $0$ 以上なら `Yes`，そうでなければ`No`を返す．
+
 ```cpp
 #include<iostream>
 using namespace std;
@@ -168,7 +170,8 @@ int main(){
   else cout<<"No"<<'\n';
 }
 
-``` 
+```
+
 </details>
 
 <details>
