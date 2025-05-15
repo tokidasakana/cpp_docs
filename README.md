@@ -15,7 +15,7 @@ int main(){
 
 実行する．エラーが出たらプログラムを修正する．
 
-```powershell
+```bash
 $ g++ a.cpp
 
 $ ./a.out
